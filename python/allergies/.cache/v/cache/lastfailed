@@ -1,0 +1,6 @@
+{
+  "allergies_test.py::AllergiesTest::test_allergic_to_eggs_in_addition_to_other_stuff": true, 
+  "allergies_test.py::AllergiesTest::test_allergic_to_strawberries_but_not_peanuts": true, 
+  "allergies_test.py::AllergiesTest::test_is_allergic_to_eggs": true, 
+  "allergies_test.py::AllergiesTest::test_no_allergies_means_not_allergic": true
+}
